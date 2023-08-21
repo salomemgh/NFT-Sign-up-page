@@ -95,6 +95,9 @@ body{
         font-size: 16px !important;
         padding-left: 28px;
     }
+    .button_create{
+        width: 315px !important;
+    }
 
 }
 .input_icon{
